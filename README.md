@@ -76,6 +76,5 @@
         </div>
     </div>
 
-<script src="https://htmlku.com/semangatyaw/script.js"></script>
 </body>
 </html>
